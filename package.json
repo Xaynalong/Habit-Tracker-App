@@ -1,5 +1,5 @@
 {
-  "name": "example_mobile_app",
+  "name": "habit_tracker_app",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

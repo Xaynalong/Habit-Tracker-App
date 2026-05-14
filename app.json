@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "example_mobile_app",
-    "slug": "example_mobile_app",
+    "name": "habit_tracker_app",
+    "slug": "habit_tracker_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "examplemobileapp",
+    "scheme": "habittrackerapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
